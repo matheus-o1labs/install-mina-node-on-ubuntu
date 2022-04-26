@@ -1,0 +1,75 @@
+cd
+mkdir -p deps
+cd deps
+sudo apt update
+wget http://de.archive.ubuntu.com/ubuntu/pool/main/libf/libffi/libffi6_3.2.1-8_amd64.deb
+wget http://de.archive.ubuntu.com/ubuntu/pool/universe/j/jemalloc/libjemalloc1_3.6.0-11_amd64.deb
+wget http://archive.ubuntu.com/ubuntu/pool/main/p/procps/libprocps6_3.3.12-3ubuntu1_amd64.deb
+sudo dpkg -i *.deb
+cd
+rm -rf deps
+
+#Add the repos:
+
+echo "deb [trusted=yes] http://packages.o1test.net stretch stable" | sudo tee /etc/apt/sources.list.d/mina.list
+sudo apt-get update
+
+# Install the package:
+
+sudo apt-get install -y mina-mainnet=1.2.2-feee67c
+
+# Install the keypair generator:
+
+sudo apt-get install mina-generate-keypair=1.2.2-feee67c
+
+#Create a folder for the keys:
+
+mkdir ~/keys
+chmod 700 keys
+
+mina-generate-keypair --privkey-path ~/keys/my-wallet
+
+chmod 600 ~/keys/my-wallet
+
+#Import the key
+
+mina accounts import --privkey-path /home/minauser/keys/my-wallet
+
+#Set the variables in .mina-env:
+
+CODA_PRIVKEY_PASS="password goes in here"
+UPTIME_PRIVKEY_PASS="password goes in here"
+MINA_PRIVKEY_PASS="password goes in here"
+
+#Create the service file
+
+sudo nano /etc/systemd/system/mina.service
+
+#Contents of the service file:
+
+[Unit]
+Description=Mina Daemon Service
+After=network.target
+StartLimitIntervalSec=60
+StartLimitBurst=3
+
+[Service]
+User=minauser
+Group=minauser
+WorkingDirectory=/home/minauser
+EnvironmentFile=/home/minauser/.mina-env
+Type=simple
+Restart=always
+RestartSec=30
+ExecStart=/usr/local/bin/mina daemon --peer-list-url https://storage.googleapis.com/mina-seed-lists/mainnet_seeds.txt --log-level Info --file-log-level Debug --limited-graphql-port 3095 --block-producer-pubkey B6.......................... --metrics-port 6060 --minimum-block-reward 700 \
+  $EXTRA_FLAGS
+ExecStop=/usr/local/bin/mina client stop-daemon
+
+[Install]
+WantedBy=default.target
+
+# Enable and start the service:
+
+sudo systemctl enable mina.service
+sudo systemctl start mina.service
+journalctl -u mina -f -o cat
