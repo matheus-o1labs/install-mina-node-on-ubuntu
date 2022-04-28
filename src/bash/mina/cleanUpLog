@@ -1,0 +1,879 @@
+-e 
+ ======= There no Docker containers with status as 'Exited' ====== 
+
+
+ ======= Docker image with ImageId: a6200a0f7bab Delted Successfully =======
+Untagged: minaprotocol/mina-generate-keypair:1.2.0-fe51f1e
+Untagged: minaprotocol/mina-generate-keypair@sha256:7b61ac2646784a413e41d968280e83c716231cc2c0056935e07fd572272d9a07
+Deleted: sha256:c5bc58a4f434cc5d468b5ce2d8e038f70cd0c6c3d7a4ceb08761cf89158553d2
+Deleted: sha256:47ec8517d03e65853b4fac6f737eb493ec4177c520cdbfc22d0d7206c4c65710
+Deleted: sha256:465aae503af70a64c771f60d2f8b68778dd62f872743e6cb4b38b25b898ac2dc
+Deleted: sha256:5b5d52e9be4d7b963874b7cb1beeb70a5c846c56e22b7e1f3b668753adba8b8f
+Deleted: sha256:e23e31ff52700d0cec33e2da028af2e656d552b02e4ee3a51172ef7c2050ad7f
+
+ ======= Docker image with ImageId: c5bc58a4f434 Delted Successfully =======
+Untagged: hello-world:latest
+Untagged: hello-world@sha256:10d7d58d5ebd2a652f4d93fdd86da8f265f5318c6a73cc5b6a9798ff6d2b2e67
+Deleted: sha256:feb5d9fea6a5e9606aa995e879d862b825965ba48de054caab5ef356dc6b3412
+Deleted: sha256:e07ee1baac5fae6a26f30cabfe54a36d3402f96afda318fe0a96cec4ca393359
+
+ ======= Docker image with ImageId: feb5d9fea6a5 Delted Successfully =======
+6bb3f7231b4a
+
+ ========[Dead|Exited] Docker container with ContainerID: 6bb3f7231b4a Deleted Successfully ======= 
+Untagged: minaprotocol/mina-daemon:1.3.0-9b0369c-bullseye-mainnet
+Untagged: minaprotocol/mina-daemon@sha256:70e8165d0b92e9330d8f8d04befcb384f253cf28da94772e3d2992a340a1a528
+Deleted: sha256:a6200a0f7bab27e4a2f4ca7898f70a935ee6acedef524ee41bbb6aaa3fa0c154
+Deleted: sha256:2a6c05e2f748f137a9ba99ea80cdc742c75875de600296f529a6b502fd52138e
+Deleted: sha256:0d00a97145ef2ef1663c08c2d60c3edba7415d73175dac67fd975a199abc3b9e
+Deleted: sha256:94bbec41448b512eed9a504a2da5425f320af97fa0e11fd94edd5445d934fdba
+Deleted: sha256:11fd8b3cf247812330bb496c3210fb4c7941af2a9e3666c7cce5293b5eaed6fc
+Deleted: sha256:5f72dbde53c01299ee0559c1bdfd9df7baa6ea6dedeec6208c5cdd948aa91c14
+Deleted: sha256:b741948f03795846dece8c7eaa712c8a12d76931ee6c9f66ddec9912d2a830f4
+Deleted: sha256:f187b563792f8518400a6f2cd74228ab310eaa4b724fa70c805ff8a9a6d921be
+Deleted: sha256:6c770da28111388e2ecddc859730630fe54f21d9ec5fd650b2c0b6a7f1799ba1
+Deleted: sha256:5fc389f37ca66fe20c40aa521472542eeabf3120585373a44324a85ea4885aeb
+Deleted: sha256:c78f3545ef0165f6fff3a124b035838b555cc9636b43a50c6fab2a3714c75514
+Deleted: sha256:1401df2b50d5de5a743b7bac3238ef3b7ce905ae39f54707b0ebb8eda3ab10bc
+
+ ======= Docker image with ImageId: a6200a0f7bab Delted Successfully =======
+-e 
+ ======= There no Docker containers with status as 'Exited' ====== 
+
+
+ ======= Docker image with ImageId: a6200a0f7bab Delted Successfully =======
+-e 
+ ======= There no Docker containers with status as 'Exited' ====== 
+
+
+ ======= Docker image with ImageId: a6200a0f7bab Delted Successfully =======
+2655835f817e
+
+ ========[Dead|Exited] Docker container with ContainerID: 2655835f817e Deleted Successfully ======= 
+Untagged: minaprotocol/mina-daemon:1.3.0-9b0369c-bullseye-mainnet
+Untagged: minaprotocol/mina-daemon@sha256:70e8165d0b92e9330d8f8d04befcb384f253cf28da94772e3d2992a340a1a528
+Deleted: sha256:a6200a0f7bab27e4a2f4ca7898f70a935ee6acedef524ee41bbb6aaa3fa0c154
+Deleted: sha256:2a6c05e2f748f137a9ba99ea80cdc742c75875de600296f529a6b502fd52138e
+Deleted: sha256:0d00a97145ef2ef1663c08c2d60c3edba7415d73175dac67fd975a199abc3b9e
+Deleted: sha256:94bbec41448b512eed9a504a2da5425f320af97fa0e11fd94edd5445d934fdba
+Deleted: sha256:11fd8b3cf247812330bb496c3210fb4c7941af2a9e3666c7cce5293b5eaed6fc
+Deleted: sha256:5f72dbde53c01299ee0559c1bdfd9df7baa6ea6dedeec6208c5cdd948aa91c14
+Deleted: sha256:b741948f03795846dece8c7eaa712c8a12d76931ee6c9f66ddec9912d2a830f4
+Deleted: sha256:f187b563792f8518400a6f2cd74228ab310eaa4b724fa70c805ff8a9a6d921be
+Deleted: sha256:6c770da28111388e2ecddc859730630fe54f21d9ec5fd650b2c0b6a7f1799ba1
+Deleted: sha256:5fc389f37ca66fe20c40aa521472542eeabf3120585373a44324a85ea4885aeb
+Deleted: sha256:c78f3545ef0165f6fff3a124b035838b555cc9636b43a50c6fab2a3714c75514
+Deleted: sha256:1401df2b50d5de5a743b7bac3238ef3b7ce905ae39f54707b0ebb8eda3ab10bc
+
+ ======= Docker image with ImageId: a6200a0f7bab Delted Successfully =======
+05ccfe396b5f
+
+ ========[Dead|Exited] Docker container with ContainerID: 05ccfe396b5f Deleted Successfully ======= 
+Untagged: minaprotocol/mina-daemon:1.3.0-9b0369c-bullseye-mainnet
+Untagged: minaprotocol/mina-daemon@sha256:70e8165d0b92e9330d8f8d04befcb384f253cf28da94772e3d2992a340a1a528
+Deleted: sha256:a6200a0f7bab27e4a2f4ca7898f70a935ee6acedef524ee41bbb6aaa3fa0c154
+Deleted: sha256:2a6c05e2f748f137a9ba99ea80cdc742c75875de600296f529a6b502fd52138e
+Deleted: sha256:0d00a97145ef2ef1663c08c2d60c3edba7415d73175dac67fd975a199abc3b9e
+Deleted: sha256:94bbec41448b512eed9a504a2da5425f320af97fa0e11fd94edd5445d934fdba
+Deleted: sha256:11fd8b3cf247812330bb496c3210fb4c7941af2a9e3666c7cce5293b5eaed6fc
+Deleted: sha256:5f72dbde53c01299ee0559c1bdfd9df7baa6ea6dedeec6208c5cdd948aa91c14
+Deleted: sha256:b741948f03795846dece8c7eaa712c8a12d76931ee6c9f66ddec9912d2a830f4
+Deleted: sha256:f187b563792f8518400a6f2cd74228ab310eaa4b724fa70c805ff8a9a6d921be
+Deleted: sha256:6c770da28111388e2ecddc859730630fe54f21d9ec5fd650b2c0b6a7f1799ba1
+Deleted: sha256:5fc389f37ca66fe20c40aa521472542eeabf3120585373a44324a85ea4885aeb
+Deleted: sha256:c78f3545ef0165f6fff3a124b035838b555cc9636b43a50c6fab2a3714c75514
+Deleted: sha256:1401df2b50d5de5a743b7bac3238ef3b7ce905ae39f54707b0ebb8eda3ab10bc
+
+ ======= Docker image with ImageId: a6200a0f7bab Delted Successfully =======
+-e 
+ ======= There no Docker containers with status as 'Exited' ====== 
+
+b07c766a9f04
+
+ ========[Dead|Exited] Docker container with ContainerID: b07c766a9f04 Deleted Successfully ======= 
+Untagged: minaprotocol/mina-daemon:1.3.0-9b0369c-bullseye-mainnet
+Untagged: minaprotocol/mina-daemon@sha256:70e8165d0b92e9330d8f8d04befcb384f253cf28da94772e3d2992a340a1a528
+Deleted: sha256:a6200a0f7bab27e4a2f4ca7898f70a935ee6acedef524ee41bbb6aaa3fa0c154
+Deleted: sha256:2a6c05e2f748f137a9ba99ea80cdc742c75875de600296f529a6b502fd52138e
+Deleted: sha256:0d00a97145ef2ef1663c08c2d60c3edba7415d73175dac67fd975a199abc3b9e
+Deleted: sha256:94bbec41448b512eed9a504a2da5425f320af97fa0e11fd94edd5445d934fdba
+Deleted: sha256:11fd8b3cf247812330bb496c3210fb4c7941af2a9e3666c7cce5293b5eaed6fc
+Deleted: sha256:5f72dbde53c01299ee0559c1bdfd9df7baa6ea6dedeec6208c5cdd948aa91c14
+Deleted: sha256:b741948f03795846dece8c7eaa712c8a12d76931ee6c9f66ddec9912d2a830f4
+Deleted: sha256:f187b563792f8518400a6f2cd74228ab310eaa4b724fa70c805ff8a9a6d921be
+Deleted: sha256:6c770da28111388e2ecddc859730630fe54f21d9ec5fd650b2c0b6a7f1799ba1
+Deleted: sha256:5fc389f37ca66fe20c40aa521472542eeabf3120585373a44324a85ea4885aeb
+Deleted: sha256:c78f3545ef0165f6fff3a124b035838b555cc9636b43a50c6fab2a3714c75514
+Deleted: sha256:1401df2b50d5de5a743b7bac3238ef3b7ce905ae39f54707b0ebb8eda3ab10bc
+
+ ======= Docker image with ImageId: a6200a0f7bab Delted Successfully =======
+e853b7755cf1
+
+ ========[Dead|Exited] Docker container with ContainerID: e853b7755cf1 Deleted Successfully ======= 
+Untagged: minaprotocol/mina-daemon:1.3.0-9b0369c-bullseye-mainnet
+Untagged: minaprotocol/mina-daemon@sha256:70e8165d0b92e9330d8f8d04befcb384f253cf28da94772e3d2992a340a1a528
+Deleted: sha256:a6200a0f7bab27e4a2f4ca7898f70a935ee6acedef524ee41bbb6aaa3fa0c154
+Deleted: sha256:2a6c05e2f748f137a9ba99ea80cdc742c75875de600296f529a6b502fd52138e
+Deleted: sha256:0d00a97145ef2ef1663c08c2d60c3edba7415d73175dac67fd975a199abc3b9e
+Deleted: sha256:94bbec41448b512eed9a504a2da5425f320af97fa0e11fd94edd5445d934fdba
+Deleted: sha256:11fd8b3cf247812330bb496c3210fb4c7941af2a9e3666c7cce5293b5eaed6fc
+Deleted: sha256:5f72dbde53c01299ee0559c1bdfd9df7baa6ea6dedeec6208c5cdd948aa91c14
+Deleted: sha256:b741948f03795846dece8c7eaa712c8a12d76931ee6c9f66ddec9912d2a830f4
+Deleted: sha256:f187b563792f8518400a6f2cd74228ab310eaa4b724fa70c805ff8a9a6d921be
+Deleted: sha256:6c770da28111388e2ecddc859730630fe54f21d9ec5fd650b2c0b6a7f1799ba1
+Deleted: sha256:5fc389f37ca66fe20c40aa521472542eeabf3120585373a44324a85ea4885aeb
+Deleted: sha256:c78f3545ef0165f6fff3a124b035838b555cc9636b43a50c6fab2a3714c75514
+Deleted: sha256:1401df2b50d5de5a743b7bac3238ef3b7ce905ae39f54707b0ebb8eda3ab10bc
+
+ ======= Docker image with ImageId: a6200a0f7bab Delted Successfully =======
+Untagged: minaprotocol/mina-generate-keypair:1.2.0-fe51f1e
+Untagged: minaprotocol/mina-generate-keypair@sha256:7b61ac2646784a413e41d968280e83c716231cc2c0056935e07fd572272d9a07
+Deleted: sha256:c5bc58a4f434cc5d468b5ce2d8e038f70cd0c6c3d7a4ceb08761cf89158553d2
+Deleted: sha256:47ec8517d03e65853b4fac6f737eb493ec4177c520cdbfc22d0d7206c4c65710
+Deleted: sha256:465aae503af70a64c771f60d2f8b68778dd62f872743e6cb4b38b25b898ac2dc
+Deleted: sha256:5b5d52e9be4d7b963874b7cb1beeb70a5c846c56e22b7e1f3b668753adba8b8f
+Deleted: sha256:e23e31ff52700d0cec33e2da028af2e656d552b02e4ee3a51172ef7c2050ad7f
+
+ ======= Docker image with ImageId: c5bc58a4f434 Delted Successfully =======
+3d6bad9e6f72
+
+ ========[Dead|Exited] Docker container with ContainerID: 3d6bad9e6f72 Deleted Successfully ======= 
+Untagged: minaprotocol/mina-daemon:1.3.0-9b0369c-bullseye-mainnet
+Untagged: minaprotocol/mina-daemon@sha256:70e8165d0b92e9330d8f8d04befcb384f253cf28da94772e3d2992a340a1a528
+Deleted: sha256:a6200a0f7bab27e4a2f4ca7898f70a935ee6acedef524ee41bbb6aaa3fa0c154
+Deleted: sha256:2a6c05e2f748f137a9ba99ea80cdc742c75875de600296f529a6b502fd52138e
+Deleted: sha256:0d00a97145ef2ef1663c08c2d60c3edba7415d73175dac67fd975a199abc3b9e
+Deleted: sha256:94bbec41448b512eed9a504a2da5425f320af97fa0e11fd94edd5445d934fdba
+Deleted: sha256:11fd8b3cf247812330bb496c3210fb4c7941af2a9e3666c7cce5293b5eaed6fc
+Deleted: sha256:5f72dbde53c01299ee0559c1bdfd9df7baa6ea6dedeec6208c5cdd948aa91c14
+Deleted: sha256:b741948f03795846dece8c7eaa712c8a12d76931ee6c9f66ddec9912d2a830f4
+Deleted: sha256:f187b563792f8518400a6f2cd74228ab310eaa4b724fa70c805ff8a9a6d921be
+Deleted: sha256:6c770da28111388e2ecddc859730630fe54f21d9ec5fd650b2c0b6a7f1799ba1
+Deleted: sha256:5fc389f37ca66fe20c40aa521472542eeabf3120585373a44324a85ea4885aeb
+Deleted: sha256:c78f3545ef0165f6fff3a124b035838b555cc9636b43a50c6fab2a3714c75514
+Deleted: sha256:1401df2b50d5de5a743b7bac3238ef3b7ce905ae39f54707b0ebb8eda3ab10bc
+
+ ======= Docker image with ImageId: a6200a0f7bab Delted Successfully =======
+e6b1adf77f80
+
+ ========[Dead|Exited] Docker container with ContainerID: e6b1adf77f80 Deleted Successfully ======= 
+Untagged: minaprotocol/mina-daemon:1.3.0-9b0369c-bullseye-mainnet
+Untagged: minaprotocol/mina-daemon@sha256:70e8165d0b92e9330d8f8d04befcb384f253cf28da94772e3d2992a340a1a528
+Deleted: sha256:a6200a0f7bab27e4a2f4ca7898f70a935ee6acedef524ee41bbb6aaa3fa0c154
+Deleted: sha256:2a6c05e2f748f137a9ba99ea80cdc742c75875de600296f529a6b502fd52138e
+Deleted: sha256:0d00a97145ef2ef1663c08c2d60c3edba7415d73175dac67fd975a199abc3b9e
+Deleted: sha256:94bbec41448b512eed9a504a2da5425f320af97fa0e11fd94edd5445d934fdba
+Deleted: sha256:11fd8b3cf247812330bb496c3210fb4c7941af2a9e3666c7cce5293b5eaed6fc
+Deleted: sha256:5f72dbde53c01299ee0559c1bdfd9df7baa6ea6dedeec6208c5cdd948aa91c14
+Deleted: sha256:b741948f03795846dece8c7eaa712c8a12d76931ee6c9f66ddec9912d2a830f4
+Deleted: sha256:f187b563792f8518400a6f2cd74228ab310eaa4b724fa70c805ff8a9a6d921be
+Deleted: sha256:6c770da28111388e2ecddc859730630fe54f21d9ec5fd650b2c0b6a7f1799ba1
+Deleted: sha256:5fc389f37ca66fe20c40aa521472542eeabf3120585373a44324a85ea4885aeb
+Deleted: sha256:c78f3545ef0165f6fff3a124b035838b555cc9636b43a50c6fab2a3714c75514
+Deleted: sha256:1401df2b50d5de5a743b7bac3238ef3b7ce905ae39f54707b0ebb8eda3ab10bc
+
+ ======= Docker image with ImageId: a6200a0f7bab Delted Successfully =======
+63c126b2032f
+
+ ========[Dead|Exited] Docker container with ContainerID: 63c126b2032f Deleted Successfully ======= 
+Untagged: minaprotocol/mina-daemon:1.3.0-9b0369c-bullseye-mainnet
+Untagged: minaprotocol/mina-daemon@sha256:70e8165d0b92e9330d8f8d04befcb384f253cf28da94772e3d2992a340a1a528
+Deleted: sha256:a6200a0f7bab27e4a2f4ca7898f70a935ee6acedef524ee41bbb6aaa3fa0c154
+Deleted: sha256:2a6c05e2f748f137a9ba99ea80cdc742c75875de600296f529a6b502fd52138e
+Deleted: sha256:0d00a97145ef2ef1663c08c2d60c3edba7415d73175dac67fd975a199abc3b9e
+Deleted: sha256:94bbec41448b512eed9a504a2da5425f320af97fa0e11fd94edd5445d934fdba
+Deleted: sha256:11fd8b3cf247812330bb496c3210fb4c7941af2a9e3666c7cce5293b5eaed6fc
+Deleted: sha256:5f72dbde53c01299ee0559c1bdfd9df7baa6ea6dedeec6208c5cdd948aa91c14
+Deleted: sha256:b741948f03795846dece8c7eaa712c8a12d76931ee6c9f66ddec9912d2a830f4
+Deleted: sha256:f187b563792f8518400a6f2cd74228ab310eaa4b724fa70c805ff8a9a6d921be
+Deleted: sha256:6c770da28111388e2ecddc859730630fe54f21d9ec5fd650b2c0b6a7f1799ba1
+Deleted: sha256:5fc389f37ca66fe20c40aa521472542eeabf3120585373a44324a85ea4885aeb
+Deleted: sha256:c78f3545ef0165f6fff3a124b035838b555cc9636b43a50c6fab2a3714c75514
+Deleted: sha256:1401df2b50d5de5a743b7bac3238ef3b7ce905ae39f54707b0ebb8eda3ab10bc
+
+ ======= Docker image with ImageId: a6200a0f7bab Delted Successfully =======
+-e 
+ ======= There no Docker containers with status as 'Exited' ====== 
+
+dccee272fe11
+
+ ========[Dead|Exited] Docker container with ContainerID: dccee272fe11 Deleted Successfully ======= 
+Untagged: minaprotocol/mina-daemon:1.3.0-9b0369c-bullseye-mainnet
+Untagged: minaprotocol/mina-daemon@sha256:70e8165d0b92e9330d8f8d04befcb384f253cf28da94772e3d2992a340a1a528
+Deleted: sha256:a6200a0f7bab27e4a2f4ca7898f70a935ee6acedef524ee41bbb6aaa3fa0c154
+Deleted: sha256:2a6c05e2f748f137a9ba99ea80cdc742c75875de600296f529a6b502fd52138e
+Deleted: sha256:0d00a97145ef2ef1663c08c2d60c3edba7415d73175dac67fd975a199abc3b9e
+Deleted: sha256:94bbec41448b512eed9a504a2da5425f320af97fa0e11fd94edd5445d934fdba
+Deleted: sha256:11fd8b3cf247812330bb496c3210fb4c7941af2a9e3666c7cce5293b5eaed6fc
+Deleted: sha256:5f72dbde53c01299ee0559c1bdfd9df7baa6ea6dedeec6208c5cdd948aa91c14
+Deleted: sha256:b741948f03795846dece8c7eaa712c8a12d76931ee6c9f66ddec9912d2a830f4
+Deleted: sha256:f187b563792f8518400a6f2cd74228ab310eaa4b724fa70c805ff8a9a6d921be
+Deleted: sha256:6c770da28111388e2ecddc859730630fe54f21d9ec5fd650b2c0b6a7f1799ba1
+Deleted: sha256:5fc389f37ca66fe20c40aa521472542eeabf3120585373a44324a85ea4885aeb
+Deleted: sha256:c78f3545ef0165f6fff3a124b035838b555cc9636b43a50c6fab2a3714c75514
+Deleted: sha256:1401df2b50d5de5a743b7bac3238ef3b7ce905ae39f54707b0ebb8eda3ab10bc
+
+ ======= Docker image with ImageId: a6200a0f7bab Delted Successfully =======
+35320178e8f9
+
+ ========[Dead|Exited] Docker container with ContainerID: 35320178e8f9 Deleted Successfully ======= 
+Untagged: minaprotocol/mina-daemon:1.3.0-9b0369c-bullseye-mainnet
+Untagged: minaprotocol/mina-daemon@sha256:70e8165d0b92e9330d8f8d04befcb384f253cf28da94772e3d2992a340a1a528
+Deleted: sha256:a6200a0f7bab27e4a2f4ca7898f70a935ee6acedef524ee41bbb6aaa3fa0c154
+Deleted: sha256:2a6c05e2f748f137a9ba99ea80cdc742c75875de600296f529a6b502fd52138e
+Deleted: sha256:0d00a97145ef2ef1663c08c2d60c3edba7415d73175dac67fd975a199abc3b9e
+Deleted: sha256:94bbec41448b512eed9a504a2da5425f320af97fa0e11fd94edd5445d934fdba
+Deleted: sha256:11fd8b3cf247812330bb496c3210fb4c7941af2a9e3666c7cce5293b5eaed6fc
+Deleted: sha256:5f72dbde53c01299ee0559c1bdfd9df7baa6ea6dedeec6208c5cdd948aa91c14
+Deleted: sha256:b741948f03795846dece8c7eaa712c8a12d76931ee6c9f66ddec9912d2a830f4
+Deleted: sha256:f187b563792f8518400a6f2cd74228ab310eaa4b724fa70c805ff8a9a6d921be
+Deleted: sha256:6c770da28111388e2ecddc859730630fe54f21d9ec5fd650b2c0b6a7f1799ba1
+Deleted: sha256:5fc389f37ca66fe20c40aa521472542eeabf3120585373a44324a85ea4885aeb
+Deleted: sha256:c78f3545ef0165f6fff3a124b035838b555cc9636b43a50c6fab2a3714c75514
+Deleted: sha256:1401df2b50d5de5a743b7bac3238ef3b7ce905ae39f54707b0ebb8eda3ab10bc
+
+ ======= Docker image with ImageId: a6200a0f7bab Delted Successfully =======
+Untagged: minaprotocol/mina-generate-keypair:1.2.0-fe51f1e
+Untagged: minaprotocol/mina-generate-keypair@sha256:7b61ac2646784a413e41d968280e83c716231cc2c0056935e07fd572272d9a07
+Deleted: sha256:c5bc58a4f434cc5d468b5ce2d8e038f70cd0c6c3d7a4ceb08761cf89158553d2
+Deleted: sha256:47ec8517d03e65853b4fac6f737eb493ec4177c520cdbfc22d0d7206c4c65710
+Deleted: sha256:465aae503af70a64c771f60d2f8b68778dd62f872743e6cb4b38b25b898ac2dc
+Deleted: sha256:5b5d52e9be4d7b963874b7cb1beeb70a5c846c56e22b7e1f3b668753adba8b8f
+Deleted: sha256:e23e31ff52700d0cec33e2da028af2e656d552b02e4ee3a51172ef7c2050ad7f
+
+ ======= Docker image with ImageId: c5bc58a4f434 Delted Successfully =======
+-e 
+ ======= There no Docker containers with status as 'Exited' ====== 
+
+-e 
+ ======= There no Docker containers with status as 'Exited' ====== 
+
+-e 
+ ======= There no Docker containers with status as 'Exited' ====== 
+
+-e 
+ ======= There no Docker containers with status as 'Exited' ====== 
+
+-e 
+ ======= There no Docker containers with status as 'Exited' ====== 
+
+-e 
+ ======= There no Docker containers with status as 'Exited' ====== 
+
+-e 
+ ======= There no Docker containers with status as 'Exited' ====== 
+
+a5be240ee3c7
+
+ ========[Dead|Exited] Docker container with ContainerID: a5be240ee3c7 Deleted Successfully ======= 
+Untagged: minaprotocol/mina-daemon:1.3.0-9b0369c-bullseye-mainnet
+Untagged: minaprotocol/mina-daemon@sha256:70e8165d0b92e9330d8f8d04befcb384f253cf28da94772e3d2992a340a1a528
+Deleted: sha256:a6200a0f7bab27e4a2f4ca7898f70a935ee6acedef524ee41bbb6aaa3fa0c154
+Deleted: sha256:2a6c05e2f748f137a9ba99ea80cdc742c75875de600296f529a6b502fd52138e
+Deleted: sha256:0d00a97145ef2ef1663c08c2d60c3edba7415d73175dac67fd975a199abc3b9e
+Deleted: sha256:94bbec41448b512eed9a504a2da5425f320af97fa0e11fd94edd5445d934fdba
+Deleted: sha256:11fd8b3cf247812330bb496c3210fb4c7941af2a9e3666c7cce5293b5eaed6fc
+Deleted: sha256:5f72dbde53c01299ee0559c1bdfd9df7baa6ea6dedeec6208c5cdd948aa91c14
+Deleted: sha256:b741948f03795846dece8c7eaa712c8a12d76931ee6c9f66ddec9912d2a830f4
+Deleted: sha256:f187b563792f8518400a6f2cd74228ab310eaa4b724fa70c805ff8a9a6d921be
+Deleted: sha256:6c770da28111388e2ecddc859730630fe54f21d9ec5fd650b2c0b6a7f1799ba1
+Deleted: sha256:5fc389f37ca66fe20c40aa521472542eeabf3120585373a44324a85ea4885aeb
+Deleted: sha256:c78f3545ef0165f6fff3a124b035838b555cc9636b43a50c6fab2a3714c75514
+Deleted: sha256:1401df2b50d5de5a743b7bac3238ef3b7ce905ae39f54707b0ebb8eda3ab10bc
+
+ ======= Docker image with ImageId: a6200a0f7bab Delted Successfully =======
+-e 
+ ======= There no Docker containers with status as 'Exited' ====== 
+
+-e 
+ ======= There no Docker containers with status as 'Exited' ====== 
+
+50d856357c2d
+
+ ========[Dead|Exited] Docker container with ContainerID: 50d856357c2d Deleted Successfully ======= 
+Untagged: minaprotocol/mina-daemon:1.3.0-9b0369c-bullseye-mainnet
+Untagged: minaprotocol/mina-daemon@sha256:70e8165d0b92e9330d8f8d04befcb384f253cf28da94772e3d2992a340a1a528
+Deleted: sha256:a6200a0f7bab27e4a2f4ca7898f70a935ee6acedef524ee41bbb6aaa3fa0c154
+Deleted: sha256:2a6c05e2f748f137a9ba99ea80cdc742c75875de600296f529a6b502fd52138e
+Deleted: sha256:0d00a97145ef2ef1663c08c2d60c3edba7415d73175dac67fd975a199abc3b9e
+Deleted: sha256:94bbec41448b512eed9a504a2da5425f320af97fa0e11fd94edd5445d934fdba
+Deleted: sha256:11fd8b3cf247812330bb496c3210fb4c7941af2a9e3666c7cce5293b5eaed6fc
+Deleted: sha256:5f72dbde53c01299ee0559c1bdfd9df7baa6ea6dedeec6208c5cdd948aa91c14
+Deleted: sha256:b741948f03795846dece8c7eaa712c8a12d76931ee6c9f66ddec9912d2a830f4
+Deleted: sha256:f187b563792f8518400a6f2cd74228ab310eaa4b724fa70c805ff8a9a6d921be
+Deleted: sha256:6c770da28111388e2ecddc859730630fe54f21d9ec5fd650b2c0b6a7f1799ba1
+Deleted: sha256:5fc389f37ca66fe20c40aa521472542eeabf3120585373a44324a85ea4885aeb
+Deleted: sha256:c78f3545ef0165f6fff3a124b035838b555cc9636b43a50c6fab2a3714c75514
+Deleted: sha256:1401df2b50d5de5a743b7bac3238ef3b7ce905ae39f54707b0ebb8eda3ab10bc
+
+ ======= Docker image with ImageId: a6200a0f7bab Delted Successfully =======
+79d5e78a38ff
+
+ ========[Dead|Exited] Docker container with ContainerID: 79d5e78a38ff Deleted Successfully ======= 
+Untagged: minaprotocol/mina-daemon:1.3.0-9b0369c-bullseye-mainnet
+Untagged: minaprotocol/mina-daemon@sha256:70e8165d0b92e9330d8f8d04befcb384f253cf28da94772e3d2992a340a1a528
+Deleted: sha256:a6200a0f7bab27e4a2f4ca7898f70a935ee6acedef524ee41bbb6aaa3fa0c154
+Deleted: sha256:2a6c05e2f748f137a9ba99ea80cdc742c75875de600296f529a6b502fd52138e
+Deleted: sha256:0d00a97145ef2ef1663c08c2d60c3edba7415d73175dac67fd975a199abc3b9e
+Deleted: sha256:94bbec41448b512eed9a504a2da5425f320af97fa0e11fd94edd5445d934fdba
+Deleted: sha256:11fd8b3cf247812330bb496c3210fb4c7941af2a9e3666c7cce5293b5eaed6fc
+Deleted: sha256:5f72dbde53c01299ee0559c1bdfd9df7baa6ea6dedeec6208c5cdd948aa91c14
+Deleted: sha256:b741948f03795846dece8c7eaa712c8a12d76931ee6c9f66ddec9912d2a830f4
+Deleted: sha256:f187b563792f8518400a6f2cd74228ab310eaa4b724fa70c805ff8a9a6d921be
+Deleted: sha256:6c770da28111388e2ecddc859730630fe54f21d9ec5fd650b2c0b6a7f1799ba1
+Deleted: sha256:5fc389f37ca66fe20c40aa521472542eeabf3120585373a44324a85ea4885aeb
+Deleted: sha256:c78f3545ef0165f6fff3a124b035838b555cc9636b43a50c6fab2a3714c75514
+Deleted: sha256:1401df2b50d5de5a743b7bac3238ef3b7ce905ae39f54707b0ebb8eda3ab10bc
+
+ ======= Docker image with ImageId: a6200a0f7bab Delted Successfully =======
+7503dc43593f
+
+ ========[Dead|Exited] Docker container with ContainerID: 7503dc43593f Deleted Successfully ======= 
+Untagged: minaprotocol/mina-daemon:1.3.0-9b0369c-bullseye-mainnet
+Untagged: minaprotocol/mina-daemon@sha256:70e8165d0b92e9330d8f8d04befcb384f253cf28da94772e3d2992a340a1a528
+Deleted: sha256:a6200a0f7bab27e4a2f4ca7898f70a935ee6acedef524ee41bbb6aaa3fa0c154
+Deleted: sha256:2a6c05e2f748f137a9ba99ea80cdc742c75875de600296f529a6b502fd52138e
+Deleted: sha256:0d00a97145ef2ef1663c08c2d60c3edba7415d73175dac67fd975a199abc3b9e
+Deleted: sha256:94bbec41448b512eed9a504a2da5425f320af97fa0e11fd94edd5445d934fdba
+Deleted: sha256:11fd8b3cf247812330bb496c3210fb4c7941af2a9e3666c7cce5293b5eaed6fc
+Deleted: sha256:5f72dbde53c01299ee0559c1bdfd9df7baa6ea6dedeec6208c5cdd948aa91c14
+Deleted: sha256:b741948f03795846dece8c7eaa712c8a12d76931ee6c9f66ddec9912d2a830f4
+Deleted: sha256:f187b563792f8518400a6f2cd74228ab310eaa4b724fa70c805ff8a9a6d921be
+Deleted: sha256:6c770da28111388e2ecddc859730630fe54f21d9ec5fd650b2c0b6a7f1799ba1
+Deleted: sha256:5fc389f37ca66fe20c40aa521472542eeabf3120585373a44324a85ea4885aeb
+Deleted: sha256:c78f3545ef0165f6fff3a124b035838b555cc9636b43a50c6fab2a3714c75514
+Deleted: sha256:1401df2b50d5de5a743b7bac3238ef3b7ce905ae39f54707b0ebb8eda3ab10bc
+
+ ======= Docker image with ImageId: a6200a0f7bab Delted Successfully =======
+a5d7ee41ed74
+
+ ========[Dead|Exited] Docker container with ContainerID: a5d7ee41ed74 Deleted Successfully ======= 
+Untagged: minaprotocol/mina-daemon:1.3.0-9b0369c-bullseye-mainnet
+Untagged: minaprotocol/mina-daemon@sha256:70e8165d0b92e9330d8f8d04befcb384f253cf28da94772e3d2992a340a1a528
+Deleted: sha256:a6200a0f7bab27e4a2f4ca7898f70a935ee6acedef524ee41bbb6aaa3fa0c154
+Deleted: sha256:2a6c05e2f748f137a9ba99ea80cdc742c75875de600296f529a6b502fd52138e
+Deleted: sha256:0d00a97145ef2ef1663c08c2d60c3edba7415d73175dac67fd975a199abc3b9e
+Deleted: sha256:94bbec41448b512eed9a504a2da5425f320af97fa0e11fd94edd5445d934fdba
+Deleted: sha256:11fd8b3cf247812330bb496c3210fb4c7941af2a9e3666c7cce5293b5eaed6fc
+Deleted: sha256:5f72dbde53c01299ee0559c1bdfd9df7baa6ea6dedeec6208c5cdd948aa91c14
+Deleted: sha256:b741948f03795846dece8c7eaa712c8a12d76931ee6c9f66ddec9912d2a830f4
+Deleted: sha256:f187b563792f8518400a6f2cd74228ab310eaa4b724fa70c805ff8a9a6d921be
+Deleted: sha256:6c770da28111388e2ecddc859730630fe54f21d9ec5fd650b2c0b6a7f1799ba1
+Deleted: sha256:5fc389f37ca66fe20c40aa521472542eeabf3120585373a44324a85ea4885aeb
+Deleted: sha256:c78f3545ef0165f6fff3a124b035838b555cc9636b43a50c6fab2a3714c75514
+Deleted: sha256:1401df2b50d5de5a743b7bac3238ef3b7ce905ae39f54707b0ebb8eda3ab10bc
+
+ ======= Docker image with ImageId: a6200a0f7bab Delted Successfully =======
+Untagged: minaprotocol/mina-generate-keypair:1.2.0-fe51f1e
+Untagged: minaprotocol/mina-generate-keypair@sha256:7b61ac2646784a413e41d968280e83c716231cc2c0056935e07fd572272d9a07
+Deleted: sha256:c5bc58a4f434cc5d468b5ce2d8e038f70cd0c6c3d7a4ceb08761cf89158553d2
+Deleted: sha256:47ec8517d03e65853b4fac6f737eb493ec4177c520cdbfc22d0d7206c4c65710
+Deleted: sha256:465aae503af70a64c771f60d2f8b68778dd62f872743e6cb4b38b25b898ac2dc
+Deleted: sha256:5b5d52e9be4d7b963874b7cb1beeb70a5c846c56e22b7e1f3b668753adba8b8f
+Deleted: sha256:e23e31ff52700d0cec33e2da028af2e656d552b02e4ee3a51172ef7c2050ad7f
+
+ ======= Docker image with ImageId: c5bc58a4f434 Delted Successfully =======
+a06e92245a44
+
+ ========[Dead|Exited] Docker container with ContainerID: a06e92245a44 Deleted Successfully ======= 
+Untagged: minaprotocol/mina-daemon:1.3.0-9b0369c-bullseye-mainnet
+Untagged: minaprotocol/mina-daemon@sha256:70e8165d0b92e9330d8f8d04befcb384f253cf28da94772e3d2992a340a1a528
+Deleted: sha256:a6200a0f7bab27e4a2f4ca7898f70a935ee6acedef524ee41bbb6aaa3fa0c154
+Deleted: sha256:2a6c05e2f748f137a9ba99ea80cdc742c75875de600296f529a6b502fd52138e
+Deleted: sha256:0d00a97145ef2ef1663c08c2d60c3edba7415d73175dac67fd975a199abc3b9e
+Deleted: sha256:94bbec41448b512eed9a504a2da5425f320af97fa0e11fd94edd5445d934fdba
+Deleted: sha256:11fd8b3cf247812330bb496c3210fb4c7941af2a9e3666c7cce5293b5eaed6fc
+Deleted: sha256:5f72dbde53c01299ee0559c1bdfd9df7baa6ea6dedeec6208c5cdd948aa91c14
+Deleted: sha256:b741948f03795846dece8c7eaa712c8a12d76931ee6c9f66ddec9912d2a830f4
+Deleted: sha256:f187b563792f8518400a6f2cd74228ab310eaa4b724fa70c805ff8a9a6d921be
+Deleted: sha256:6c770da28111388e2ecddc859730630fe54f21d9ec5fd650b2c0b6a7f1799ba1
+Deleted: sha256:5fc389f37ca66fe20c40aa521472542eeabf3120585373a44324a85ea4885aeb
+Deleted: sha256:c78f3545ef0165f6fff3a124b035838b555cc9636b43a50c6fab2a3714c75514
+Deleted: sha256:1401df2b50d5de5a743b7bac3238ef3b7ce905ae39f54707b0ebb8eda3ab10bc
+
+ ======= Docker image with ImageId: a6200a0f7bab Delted Successfully =======
+df078cc75ecf
+
+ ========[Dead|Exited] Docker container with ContainerID: df078cc75ecf Deleted Successfully ======= 
+Untagged: minaprotocol/mina-daemon:1.3.0-9b0369c-bullseye-mainnet
+Untagged: minaprotocol/mina-daemon@sha256:70e8165d0b92e9330d8f8d04befcb384f253cf28da94772e3d2992a340a1a528
+Deleted: sha256:a6200a0f7bab27e4a2f4ca7898f70a935ee6acedef524ee41bbb6aaa3fa0c154
+Deleted: sha256:2a6c05e2f748f137a9ba99ea80cdc742c75875de600296f529a6b502fd52138e
+Deleted: sha256:0d00a97145ef2ef1663c08c2d60c3edba7415d73175dac67fd975a199abc3b9e
+Deleted: sha256:94bbec41448b512eed9a504a2da5425f320af97fa0e11fd94edd5445d934fdba
+Deleted: sha256:11fd8b3cf247812330bb496c3210fb4c7941af2a9e3666c7cce5293b5eaed6fc
+Deleted: sha256:5f72dbde53c01299ee0559c1bdfd9df7baa6ea6dedeec6208c5cdd948aa91c14
+Deleted: sha256:b741948f03795846dece8c7eaa712c8a12d76931ee6c9f66ddec9912d2a830f4
+Deleted: sha256:f187b563792f8518400a6f2cd74228ab310eaa4b724fa70c805ff8a9a6d921be
+Deleted: sha256:6c770da28111388e2ecddc859730630fe54f21d9ec5fd650b2c0b6a7f1799ba1
+Deleted: sha256:5fc389f37ca66fe20c40aa521472542eeabf3120585373a44324a85ea4885aeb
+Deleted: sha256:c78f3545ef0165f6fff3a124b035838b555cc9636b43a50c6fab2a3714c75514
+Deleted: sha256:1401df2b50d5de5a743b7bac3238ef3b7ce905ae39f54707b0ebb8eda3ab10bc
+
+ ======= Docker image with ImageId: a6200a0f7bab Delted Successfully =======
+511c8028661d
+
+ ========[Dead|Exited] Docker container with ContainerID: 511c8028661d Deleted Successfully ======= 
+Untagged: minaprotocol/mina-daemon:1.3.0-9b0369c-bullseye-mainnet
+Untagged: minaprotocol/mina-daemon@sha256:70e8165d0b92e9330d8f8d04befcb384f253cf28da94772e3d2992a340a1a528
+Deleted: sha256:a6200a0f7bab27e4a2f4ca7898f70a935ee6acedef524ee41bbb6aaa3fa0c154
+Deleted: sha256:2a6c05e2f748f137a9ba99ea80cdc742c75875de600296f529a6b502fd52138e
+Deleted: sha256:0d00a97145ef2ef1663c08c2d60c3edba7415d73175dac67fd975a199abc3b9e
+Deleted: sha256:94bbec41448b512eed9a504a2da5425f320af97fa0e11fd94edd5445d934fdba
+Deleted: sha256:11fd8b3cf247812330bb496c3210fb4c7941af2a9e3666c7cce5293b5eaed6fc
+Deleted: sha256:5f72dbde53c01299ee0559c1bdfd9df7baa6ea6dedeec6208c5cdd948aa91c14
+Deleted: sha256:b741948f03795846dece8c7eaa712c8a12d76931ee6c9f66ddec9912d2a830f4
+Deleted: sha256:f187b563792f8518400a6f2cd74228ab310eaa4b724fa70c805ff8a9a6d921be
+Deleted: sha256:6c770da28111388e2ecddc859730630fe54f21d9ec5fd650b2c0b6a7f1799ba1
+Deleted: sha256:5fc389f37ca66fe20c40aa521472542eeabf3120585373a44324a85ea4885aeb
+Deleted: sha256:c78f3545ef0165f6fff3a124b035838b555cc9636b43a50c6fab2a3714c75514
+Deleted: sha256:1401df2b50d5de5a743b7bac3238ef3b7ce905ae39f54707b0ebb8eda3ab10bc
+
+ ======= Docker image with ImageId: a6200a0f7bab Delted Successfully =======
+-e 
+ ======= There no Docker containers with status as 'Exited' ====== 
+
+dc8d730b6a34
+
+ ========[Dead|Exited] Docker container with ContainerID: dc8d730b6a34 Deleted Successfully ======= 
+Untagged: minaprotocol/mina-daemon:1.3.0-9b0369c-bullseye-mainnet
+Untagged: minaprotocol/mina-daemon@sha256:70e8165d0b92e9330d8f8d04befcb384f253cf28da94772e3d2992a340a1a528
+Deleted: sha256:a6200a0f7bab27e4a2f4ca7898f70a935ee6acedef524ee41bbb6aaa3fa0c154
+Deleted: sha256:2a6c05e2f748f137a9ba99ea80cdc742c75875de600296f529a6b502fd52138e
+Deleted: sha256:0d00a97145ef2ef1663c08c2d60c3edba7415d73175dac67fd975a199abc3b9e
+Deleted: sha256:94bbec41448b512eed9a504a2da5425f320af97fa0e11fd94edd5445d934fdba
+Deleted: sha256:11fd8b3cf247812330bb496c3210fb4c7941af2a9e3666c7cce5293b5eaed6fc
+Deleted: sha256:5f72dbde53c01299ee0559c1bdfd9df7baa6ea6dedeec6208c5cdd948aa91c14
+Deleted: sha256:b741948f03795846dece8c7eaa712c8a12d76931ee6c9f66ddec9912d2a830f4
+Deleted: sha256:f187b563792f8518400a6f2cd74228ab310eaa4b724fa70c805ff8a9a6d921be
+Deleted: sha256:6c770da28111388e2ecddc859730630fe54f21d9ec5fd650b2c0b6a7f1799ba1
+Deleted: sha256:5fc389f37ca66fe20c40aa521472542eeabf3120585373a44324a85ea4885aeb
+Deleted: sha256:c78f3545ef0165f6fff3a124b035838b555cc9636b43a50c6fab2a3714c75514
+Deleted: sha256:1401df2b50d5de5a743b7bac3238ef3b7ce905ae39f54707b0ebb8eda3ab10bc
+
+ ======= Docker image with ImageId: a6200a0f7bab Delted Successfully =======
+-e 
+ ======= There no Docker containers with status as 'Exited' ====== 
+
+3967b2c26b94
+
+ ========[Dead|Exited] Docker container with ContainerID: 3967b2c26b94 Deleted Successfully ======= 
+Untagged: minaprotocol/mina-daemon:1.3.0-9b0369c-bullseye-mainnet
+Untagged: minaprotocol/mina-daemon@sha256:70e8165d0b92e9330d8f8d04befcb384f253cf28da94772e3d2992a340a1a528
+Deleted: sha256:a6200a0f7bab27e4a2f4ca7898f70a935ee6acedef524ee41bbb6aaa3fa0c154
+Deleted: sha256:2a6c05e2f748f137a9ba99ea80cdc742c75875de600296f529a6b502fd52138e
+Deleted: sha256:0d00a97145ef2ef1663c08c2d60c3edba7415d73175dac67fd975a199abc3b9e
+Deleted: sha256:94bbec41448b512eed9a504a2da5425f320af97fa0e11fd94edd5445d934fdba
+Deleted: sha256:11fd8b3cf247812330bb496c3210fb4c7941af2a9e3666c7cce5293b5eaed6fc
+Deleted: sha256:5f72dbde53c01299ee0559c1bdfd9df7baa6ea6dedeec6208c5cdd948aa91c14
+Deleted: sha256:b741948f03795846dece8c7eaa712c8a12d76931ee6c9f66ddec9912d2a830f4
+Deleted: sha256:f187b563792f8518400a6f2cd74228ab310eaa4b724fa70c805ff8a9a6d921be
+Deleted: sha256:6c770da28111388e2ecddc859730630fe54f21d9ec5fd650b2c0b6a7f1799ba1
+Deleted: sha256:5fc389f37ca66fe20c40aa521472542eeabf3120585373a44324a85ea4885aeb
+Deleted: sha256:c78f3545ef0165f6fff3a124b035838b555cc9636b43a50c6fab2a3714c75514
+Deleted: sha256:1401df2b50d5de5a743b7bac3238ef3b7ce905ae39f54707b0ebb8eda3ab10bc
+
+ ======= Docker image with ImageId: a6200a0f7bab Delted Successfully =======
+cf40fee6192e
+
+ ========[Dead|Exited] Docker container with ContainerID: cf40fee6192e Deleted Successfully ======= 
+Untagged: minaprotocol/mina-daemon:1.3.0-9b0369c-bullseye-mainnet
+Untagged: minaprotocol/mina-daemon@sha256:70e8165d0b92e9330d8f8d04befcb384f253cf28da94772e3d2992a340a1a528
+Deleted: sha256:a6200a0f7bab27e4a2f4ca7898f70a935ee6acedef524ee41bbb6aaa3fa0c154
+Deleted: sha256:2a6c05e2f748f137a9ba99ea80cdc742c75875de600296f529a6b502fd52138e
+Deleted: sha256:0d00a97145ef2ef1663c08c2d60c3edba7415d73175dac67fd975a199abc3b9e
+Deleted: sha256:94bbec41448b512eed9a504a2da5425f320af97fa0e11fd94edd5445d934fdba
+Deleted: sha256:11fd8b3cf247812330bb496c3210fb4c7941af2a9e3666c7cce5293b5eaed6fc
+Deleted: sha256:5f72dbde53c01299ee0559c1bdfd9df7baa6ea6dedeec6208c5cdd948aa91c14
+Deleted: sha256:b741948f03795846dece8c7eaa712c8a12d76931ee6c9f66ddec9912d2a830f4
+Deleted: sha256:f187b563792f8518400a6f2cd74228ab310eaa4b724fa70c805ff8a9a6d921be
+Deleted: sha256:6c770da28111388e2ecddc859730630fe54f21d9ec5fd650b2c0b6a7f1799ba1
+Deleted: sha256:5fc389f37ca66fe20c40aa521472542eeabf3120585373a44324a85ea4885aeb
+Deleted: sha256:c78f3545ef0165f6fff3a124b035838b555cc9636b43a50c6fab2a3714c75514
+Deleted: sha256:1401df2b50d5de5a743b7bac3238ef3b7ce905ae39f54707b0ebb8eda3ab10bc
+
+ ======= Docker image with ImageId: a6200a0f7bab Delted Successfully =======
+577c4b822076
+
+ ========[Dead|Exited] Docker container with ContainerID: 577c4b822076 Deleted Successfully ======= 
+Untagged: minaprotocol/mina-daemon:1.3.0-9b0369c-bullseye-mainnet
+Untagged: minaprotocol/mina-daemon@sha256:70e8165d0b92e9330d8f8d04befcb384f253cf28da94772e3d2992a340a1a528
+Deleted: sha256:a6200a0f7bab27e4a2f4ca7898f70a935ee6acedef524ee41bbb6aaa3fa0c154
+Deleted: sha256:2a6c05e2f748f137a9ba99ea80cdc742c75875de600296f529a6b502fd52138e
+Deleted: sha256:0d00a97145ef2ef1663c08c2d60c3edba7415d73175dac67fd975a199abc3b9e
+Deleted: sha256:94bbec41448b512eed9a504a2da5425f320af97fa0e11fd94edd5445d934fdba
+Deleted: sha256:11fd8b3cf247812330bb496c3210fb4c7941af2a9e3666c7cce5293b5eaed6fc
+Deleted: sha256:5f72dbde53c01299ee0559c1bdfd9df7baa6ea6dedeec6208c5cdd948aa91c14
+Deleted: sha256:b741948f03795846dece8c7eaa712c8a12d76931ee6c9f66ddec9912d2a830f4
+Deleted: sha256:f187b563792f8518400a6f2cd74228ab310eaa4b724fa70c805ff8a9a6d921be
+Deleted: sha256:6c770da28111388e2ecddc859730630fe54f21d9ec5fd650b2c0b6a7f1799ba1
+Deleted: sha256:5fc389f37ca66fe20c40aa521472542eeabf3120585373a44324a85ea4885aeb
+Deleted: sha256:c78f3545ef0165f6fff3a124b035838b555cc9636b43a50c6fab2a3714c75514
+Deleted: sha256:1401df2b50d5de5a743b7bac3238ef3b7ce905ae39f54707b0ebb8eda3ab10bc
+
+ ======= Docker image with ImageId: a6200a0f7bab Delted Successfully =======
+4b7bce3a33d5
+
+ ========[Dead|Exited] Docker container with ContainerID: 4b7bce3a33d5 Deleted Successfully ======= 
+Untagged: minaprotocol/mina-daemon:1.3.0-9b0369c-bullseye-mainnet
+Untagged: minaprotocol/mina-daemon@sha256:70e8165d0b92e9330d8f8d04befcb384f253cf28da94772e3d2992a340a1a528
+Deleted: sha256:a6200a0f7bab27e4a2f4ca7898f70a935ee6acedef524ee41bbb6aaa3fa0c154
+Deleted: sha256:2a6c05e2f748f137a9ba99ea80cdc742c75875de600296f529a6b502fd52138e
+Deleted: sha256:0d00a97145ef2ef1663c08c2d60c3edba7415d73175dac67fd975a199abc3b9e
+Deleted: sha256:94bbec41448b512eed9a504a2da5425f320af97fa0e11fd94edd5445d934fdba
+Deleted: sha256:11fd8b3cf247812330bb496c3210fb4c7941af2a9e3666c7cce5293b5eaed6fc
+Deleted: sha256:5f72dbde53c01299ee0559c1bdfd9df7baa6ea6dedeec6208c5cdd948aa91c14
+Deleted: sha256:b741948f03795846dece8c7eaa712c8a12d76931ee6c9f66ddec9912d2a830f4
+Deleted: sha256:f187b563792f8518400a6f2cd74228ab310eaa4b724fa70c805ff8a9a6d921be
+Deleted: sha256:6c770da28111388e2ecddc859730630fe54f21d9ec5fd650b2c0b6a7f1799ba1
+Deleted: sha256:5fc389f37ca66fe20c40aa521472542eeabf3120585373a44324a85ea4885aeb
+Deleted: sha256:c78f3545ef0165f6fff3a124b035838b555cc9636b43a50c6fab2a3714c75514
+Deleted: sha256:1401df2b50d5de5a743b7bac3238ef3b7ce905ae39f54707b0ebb8eda3ab10bc
+
+ ======= Docker image with ImageId: a6200a0f7bab Delted Successfully =======
+-e 
+ ======= There no Docker containers with status as 'Exited' ====== 
+
+Untagged: minaprotocol/mina-generate-keypair:1.2.0-fe51f1e
+Untagged: minaprotocol/mina-generate-keypair@sha256:7b61ac2646784a413e41d968280e83c716231cc2c0056935e07fd572272d9a07
+Deleted: sha256:c5bc58a4f434cc5d468b5ce2d8e038f70cd0c6c3d7a4ceb08761cf89158553d2
+Deleted: sha256:47ec8517d03e65853b4fac6f737eb493ec4177c520cdbfc22d0d7206c4c65710
+Deleted: sha256:465aae503af70a64c771f60d2f8b68778dd62f872743e6cb4b38b25b898ac2dc
+Deleted: sha256:5b5d52e9be4d7b963874b7cb1beeb70a5c846c56e22b7e1f3b668753adba8b8f
+Deleted: sha256:e23e31ff52700d0cec33e2da028af2e656d552b02e4ee3a51172ef7c2050ad7f
+
+ ======= Docker image with ImageId: c5bc58a4f434 Delted Successfully =======
+e756bee26dbb
+
+ ========[Dead|Exited] Docker container with ContainerID: e756bee26dbb Deleted Successfully ======= 
+Untagged: minaprotocol/mina-daemon:1.3.0-9b0369c-bullseye-mainnet
+Untagged: minaprotocol/mina-daemon@sha256:70e8165d0b92e9330d8f8d04befcb384f253cf28da94772e3d2992a340a1a528
+Deleted: sha256:a6200a0f7bab27e4a2f4ca7898f70a935ee6acedef524ee41bbb6aaa3fa0c154
+Deleted: sha256:2a6c05e2f748f137a9ba99ea80cdc742c75875de600296f529a6b502fd52138e
+Deleted: sha256:0d00a97145ef2ef1663c08c2d60c3edba7415d73175dac67fd975a199abc3b9e
+Deleted: sha256:94bbec41448b512eed9a504a2da5425f320af97fa0e11fd94edd5445d934fdba
+Deleted: sha256:11fd8b3cf247812330bb496c3210fb4c7941af2a9e3666c7cce5293b5eaed6fc
+Deleted: sha256:5f72dbde53c01299ee0559c1bdfd9df7baa6ea6dedeec6208c5cdd948aa91c14
+Deleted: sha256:b741948f03795846dece8c7eaa712c8a12d76931ee6c9f66ddec9912d2a830f4
+Deleted: sha256:f187b563792f8518400a6f2cd74228ab310eaa4b724fa70c805ff8a9a6d921be
+Deleted: sha256:6c770da28111388e2ecddc859730630fe54f21d9ec5fd650b2c0b6a7f1799ba1
+Deleted: sha256:5fc389f37ca66fe20c40aa521472542eeabf3120585373a44324a85ea4885aeb
+Deleted: sha256:c78f3545ef0165f6fff3a124b035838b555cc9636b43a50c6fab2a3714c75514
+Deleted: sha256:1401df2b50d5de5a743b7bac3238ef3b7ce905ae39f54707b0ebb8eda3ab10bc
+
+ ======= Docker image with ImageId: a6200a0f7bab Delted Successfully =======
+-e 
+ ======= There no Docker containers with status as 'Exited' ====== 
+
+4cda92e88349
+
+ ========[Dead|Exited] Docker container with ContainerID: 4cda92e88349 Deleted Successfully ======= 
+Untagged: minaprotocol/mina-daemon:1.3.0-9b0369c-bullseye-mainnet
+Untagged: minaprotocol/mina-daemon@sha256:70e8165d0b92e9330d8f8d04befcb384f253cf28da94772e3d2992a340a1a528
+Deleted: sha256:a6200a0f7bab27e4a2f4ca7898f70a935ee6acedef524ee41bbb6aaa3fa0c154
+Deleted: sha256:2a6c05e2f748f137a9ba99ea80cdc742c75875de600296f529a6b502fd52138e
+Deleted: sha256:0d00a97145ef2ef1663c08c2d60c3edba7415d73175dac67fd975a199abc3b9e
+Deleted: sha256:94bbec41448b512eed9a504a2da5425f320af97fa0e11fd94edd5445d934fdba
+Deleted: sha256:11fd8b3cf247812330bb496c3210fb4c7941af2a9e3666c7cce5293b5eaed6fc
+Deleted: sha256:5f72dbde53c01299ee0559c1bdfd9df7baa6ea6dedeec6208c5cdd948aa91c14
+Deleted: sha256:b741948f03795846dece8c7eaa712c8a12d76931ee6c9f66ddec9912d2a830f4
+Deleted: sha256:f187b563792f8518400a6f2cd74228ab310eaa4b724fa70c805ff8a9a6d921be
+Deleted: sha256:6c770da28111388e2ecddc859730630fe54f21d9ec5fd650b2c0b6a7f1799ba1
+Deleted: sha256:5fc389f37ca66fe20c40aa521472542eeabf3120585373a44324a85ea4885aeb
+Deleted: sha256:c78f3545ef0165f6fff3a124b035838b555cc9636b43a50c6fab2a3714c75514
+Deleted: sha256:1401df2b50d5de5a743b7bac3238ef3b7ce905ae39f54707b0ebb8eda3ab10bc
+
+ ======= Docker image with ImageId: a6200a0f7bab Delted Successfully =======
+-e 
+ ======= There no Docker containers with status as 'Exited' ====== 
+
+-e 
+ ======= There no Docker containers with status as 'Exited' ====== 
+
+-e 
+ ======= There no Docker containers with status as 'Exited' ====== 
+
+-e 
+ ======= There no Docker containers with status as 'Exited' ====== 
+
+-e 
+ ======= There no Docker containers with status as 'Exited' ====== 
+
+Untagged: minaprotocol/mina-generate-keypair:1.2.0-fe51f1e
+Untagged: minaprotocol/mina-generate-keypair@sha256:7b61ac2646784a413e41d968280e83c716231cc2c0056935e07fd572272d9a07
+Deleted: sha256:c5bc58a4f434cc5d468b5ce2d8e038f70cd0c6c3d7a4ceb08761cf89158553d2
+Deleted: sha256:47ec8517d03e65853b4fac6f737eb493ec4177c520cdbfc22d0d7206c4c65710
+Deleted: sha256:465aae503af70a64c771f60d2f8b68778dd62f872743e6cb4b38b25b898ac2dc
+Deleted: sha256:5b5d52e9be4d7b963874b7cb1beeb70a5c846c56e22b7e1f3b668753adba8b8f
+Deleted: sha256:e23e31ff52700d0cec33e2da028af2e656d552b02e4ee3a51172ef7c2050ad7f
+
+ ======= Docker image with ImageId: c5bc58a4f434 Delted Successfully =======
+-e 
+ ======= There no Docker containers with status as 'Exited' ====== 
+
+Untagged: minaprotocol/mina-generate-keypair:1.2.0-fe51f1e
+Untagged: minaprotocol/mina-generate-keypair@sha256:7b61ac2646784a413e41d968280e83c716231cc2c0056935e07fd572272d9a07
+Deleted: sha256:c5bc58a4f434cc5d468b5ce2d8e038f70cd0c6c3d7a4ceb08761cf89158553d2
+Deleted: sha256:47ec8517d03e65853b4fac6f737eb493ec4177c520cdbfc22d0d7206c4c65710
+Deleted: sha256:465aae503af70a64c771f60d2f8b68778dd62f872743e6cb4b38b25b898ac2dc
+Deleted: sha256:5b5d52e9be4d7b963874b7cb1beeb70a5c846c56e22b7e1f3b668753adba8b8f
+Deleted: sha256:e23e31ff52700d0cec33e2da028af2e656d552b02e4ee3a51172ef7c2050ad7f
+
+ ======= Docker image with ImageId: c5bc58a4f434 Delted Successfully =======
+-e 
+ ======= There no Docker containers with status as 'Exited' ====== 
+
+Untagged: minaprotocol/mina-generate-keypair:1.2.0-fe51f1e
+Untagged: minaprotocol/mina-generate-keypair@sha256:7b61ac2646784a413e41d968280e83c716231cc2c0056935e07fd572272d9a07
+Deleted: sha256:c5bc58a4f434cc5d468b5ce2d8e038f70cd0c6c3d7a4ceb08761cf89158553d2
+Deleted: sha256:47ec8517d03e65853b4fac6f737eb493ec4177c520cdbfc22d0d7206c4c65710
+Deleted: sha256:465aae503af70a64c771f60d2f8b68778dd62f872743e6cb4b38b25b898ac2dc
+Deleted: sha256:5b5d52e9be4d7b963874b7cb1beeb70a5c846c56e22b7e1f3b668753adba8b8f
+Deleted: sha256:e23e31ff52700d0cec33e2da028af2e656d552b02e4ee3a51172ef7c2050ad7f
+
+ ======= Docker image with ImageId: c5bc58a4f434 Delted Successfully =======
+-e 
+ ======= There no Docker containers with status as 'Exited' ====== 
+
+Untagged: minaprotocol/mina-generate-keypair:1.2.0-fe51f1e
+Untagged: minaprotocol/mina-generate-keypair@sha256:7b61ac2646784a413e41d968280e83c716231cc2c0056935e07fd572272d9a07
+Deleted: sha256:c5bc58a4f434cc5d468b5ce2d8e038f70cd0c6c3d7a4ceb08761cf89158553d2
+Deleted: sha256:47ec8517d03e65853b4fac6f737eb493ec4177c520cdbfc22d0d7206c4c65710
+Deleted: sha256:465aae503af70a64c771f60d2f8b68778dd62f872743e6cb4b38b25b898ac2dc
+Deleted: sha256:5b5d52e9be4d7b963874b7cb1beeb70a5c846c56e22b7e1f3b668753adba8b8f
+Deleted: sha256:e23e31ff52700d0cec33e2da028af2e656d552b02e4ee3a51172ef7c2050ad7f
+
+ ======= Docker image with ImageId: c5bc58a4f434 Delted Successfully =======
+-e 
+ ======= There no Docker containers with status as 'Exited' ====== 
+
+Untagged: minaprotocol/mina-generate-keypair:1.2.0-fe51f1e
+Untagged: minaprotocol/mina-generate-keypair@sha256:7b61ac2646784a413e41d968280e83c716231cc2c0056935e07fd572272d9a07
+Deleted: sha256:c5bc58a4f434cc5d468b5ce2d8e038f70cd0c6c3d7a4ceb08761cf89158553d2
+Deleted: sha256:47ec8517d03e65853b4fac6f737eb493ec4177c520cdbfc22d0d7206c4c65710
+Deleted: sha256:465aae503af70a64c771f60d2f8b68778dd62f872743e6cb4b38b25b898ac2dc
+Deleted: sha256:5b5d52e9be4d7b963874b7cb1beeb70a5c846c56e22b7e1f3b668753adba8b8f
+Deleted: sha256:e23e31ff52700d0cec33e2da028af2e656d552b02e4ee3a51172ef7c2050ad7f
+
+ ======= Docker image with ImageId: c5bc58a4f434 Delted Successfully =======
+-e 
+ ======= There no Docker containers with status as 'Exited' ====== 
+
+Untagged: minaprotocol/mina-generate-keypair:1.2.0-fe51f1e
+Untagged: minaprotocol/mina-generate-keypair@sha256:7b61ac2646784a413e41d968280e83c716231cc2c0056935e07fd572272d9a07
+Deleted: sha256:c5bc58a4f434cc5d468b5ce2d8e038f70cd0c6c3d7a4ceb08761cf89158553d2
+Deleted: sha256:47ec8517d03e65853b4fac6f737eb493ec4177c520cdbfc22d0d7206c4c65710
+Deleted: sha256:465aae503af70a64c771f60d2f8b68778dd62f872743e6cb4b38b25b898ac2dc
+Deleted: sha256:5b5d52e9be4d7b963874b7cb1beeb70a5c846c56e22b7e1f3b668753adba8b8f
+Deleted: sha256:e23e31ff52700d0cec33e2da028af2e656d552b02e4ee3a51172ef7c2050ad7f
+
+ ======= Docker image with ImageId: c5bc58a4f434 Delted Successfully =======
+-e 
+ ======= There no Docker containers with status as 'Exited' ====== 
+
+-e 
+ ======= There no Docker containers with status as 'Exited' ====== 
+
+-e 
+ ======= There no Docker containers with status as 'Exited' ====== 
+
+Untagged: minaprotocol/mina-generate-keypair:1.2.0-fe51f1e
+Untagged: minaprotocol/mina-generate-keypair@sha256:7b61ac2646784a413e41d968280e83c716231cc2c0056935e07fd572272d9a07
+Deleted: sha256:c5bc58a4f434cc5d468b5ce2d8e038f70cd0c6c3d7a4ceb08761cf89158553d2
+Deleted: sha256:47ec8517d03e65853b4fac6f737eb493ec4177c520cdbfc22d0d7206c4c65710
+Deleted: sha256:465aae503af70a64c771f60d2f8b68778dd62f872743e6cb4b38b25b898ac2dc
+Deleted: sha256:5b5d52e9be4d7b963874b7cb1beeb70a5c846c56e22b7e1f3b668753adba8b8f
+Deleted: sha256:e23e31ff52700d0cec33e2da028af2e656d552b02e4ee3a51172ef7c2050ad7f
+
+ ======= Docker image with ImageId: c5bc58a4f434 Delted Successfully =======
+-e 
+ ======= There no Docker containers with status as 'Exited' ====== 
+
+Untagged: minaprotocol/mina-generate-keypair:1.2.0-fe51f1e
+Untagged: minaprotocol/mina-generate-keypair@sha256:7b61ac2646784a413e41d968280e83c716231cc2c0056935e07fd572272d9a07
+Deleted: sha256:c5bc58a4f434cc5d468b5ce2d8e038f70cd0c6c3d7a4ceb08761cf89158553d2
+Deleted: sha256:47ec8517d03e65853b4fac6f737eb493ec4177c520cdbfc22d0d7206c4c65710
+Deleted: sha256:465aae503af70a64c771f60d2f8b68778dd62f872743e6cb4b38b25b898ac2dc
+Deleted: sha256:5b5d52e9be4d7b963874b7cb1beeb70a5c846c56e22b7e1f3b668753adba8b8f
+Deleted: sha256:e23e31ff52700d0cec33e2da028af2e656d552b02e4ee3a51172ef7c2050ad7f
+
+ ======= Docker image with ImageId: c5bc58a4f434 Delted Successfully =======
+-e 
+ ======= There no Docker containers with status as 'Exited' ====== 
+
+Untagged: minaprotocol/mina-generate-keypair:1.2.0-fe51f1e
+Untagged: minaprotocol/mina-generate-keypair@sha256:7b61ac2646784a413e41d968280e83c716231cc2c0056935e07fd572272d9a07
+Deleted: sha256:c5bc58a4f434cc5d468b5ce2d8e038f70cd0c6c3d7a4ceb08761cf89158553d2
+Deleted: sha256:47ec8517d03e65853b4fac6f737eb493ec4177c520cdbfc22d0d7206c4c65710
+Deleted: sha256:465aae503af70a64c771f60d2f8b68778dd62f872743e6cb4b38b25b898ac2dc
+Deleted: sha256:5b5d52e9be4d7b963874b7cb1beeb70a5c846c56e22b7e1f3b668753adba8b8f
+Deleted: sha256:e23e31ff52700d0cec33e2da028af2e656d552b02e4ee3a51172ef7c2050ad7f
+
+ ======= Docker image with ImageId: c5bc58a4f434 Delted Successfully =======
+ede168e75912
+
+ ========[Dead|Exited] Docker container with ContainerID: ede168e75912 Deleted Successfully ======= 
+Untagged: minaprotocol/mina-daemon:1.3.0-9b0369c-bullseye-mainnet
+Untagged: minaprotocol/mina-daemon@sha256:70e8165d0b92e9330d8f8d04befcb384f253cf28da94772e3d2992a340a1a528
+Deleted: sha256:a6200a0f7bab27e4a2f4ca7898f70a935ee6acedef524ee41bbb6aaa3fa0c154
+Deleted: sha256:2a6c05e2f748f137a9ba99ea80cdc742c75875de600296f529a6b502fd52138e
+Deleted: sha256:0d00a97145ef2ef1663c08c2d60c3edba7415d73175dac67fd975a199abc3b9e
+Deleted: sha256:94bbec41448b512eed9a504a2da5425f320af97fa0e11fd94edd5445d934fdba
+Deleted: sha256:11fd8b3cf247812330bb496c3210fb4c7941af2a9e3666c7cce5293b5eaed6fc
+Deleted: sha256:5f72dbde53c01299ee0559c1bdfd9df7baa6ea6dedeec6208c5cdd948aa91c14
+Deleted: sha256:b741948f03795846dece8c7eaa712c8a12d76931ee6c9f66ddec9912d2a830f4
+Deleted: sha256:f187b563792f8518400a6f2cd74228ab310eaa4b724fa70c805ff8a9a6d921be
+Deleted: sha256:6c770da28111388e2ecddc859730630fe54f21d9ec5fd650b2c0b6a7f1799ba1
+Deleted: sha256:5fc389f37ca66fe20c40aa521472542eeabf3120585373a44324a85ea4885aeb
+Deleted: sha256:c78f3545ef0165f6fff3a124b035838b555cc9636b43a50c6fab2a3714c75514
+Deleted: sha256:1401df2b50d5de5a743b7bac3238ef3b7ce905ae39f54707b0ebb8eda3ab10bc
+
+ ======= Docker image with ImageId: a6200a0f7bab Delted Successfully =======
+Untagged: minaprotocol/mina-generate-keypair:1.2.0-fe51f1e
+Untagged: minaprotocol/mina-generate-keypair@sha256:7b61ac2646784a413e41d968280e83c716231cc2c0056935e07fd572272d9a07
+Deleted: sha256:c5bc58a4f434cc5d468b5ce2d8e038f70cd0c6c3d7a4ceb08761cf89158553d2
+Deleted: sha256:47ec8517d03e65853b4fac6f737eb493ec4177c520cdbfc22d0d7206c4c65710
+Deleted: sha256:465aae503af70a64c771f60d2f8b68778dd62f872743e6cb4b38b25b898ac2dc
+Deleted: sha256:5b5d52e9be4d7b963874b7cb1beeb70a5c846c56e22b7e1f3b668753adba8b8f
+Deleted: sha256:e23e31ff52700d0cec33e2da028af2e656d552b02e4ee3a51172ef7c2050ad7f
+
+ ======= Docker image with ImageId: c5bc58a4f434 Delted Successfully =======
+-e 
+ ======= There no Docker containers with status as 'Exited' ====== 
+
+Untagged: minaprotocol/mina-generate-keypair:1.2.0-fe51f1e
+Untagged: minaprotocol/mina-generate-keypair@sha256:7b61ac2646784a413e41d968280e83c716231cc2c0056935e07fd572272d9a07
+Deleted: sha256:c5bc58a4f434cc5d468b5ce2d8e038f70cd0c6c3d7a4ceb08761cf89158553d2
+Deleted: sha256:47ec8517d03e65853b4fac6f737eb493ec4177c520cdbfc22d0d7206c4c65710
+Deleted: sha256:465aae503af70a64c771f60d2f8b68778dd62f872743e6cb4b38b25b898ac2dc
+Deleted: sha256:5b5d52e9be4d7b963874b7cb1beeb70a5c846c56e22b7e1f3b668753adba8b8f
+Deleted: sha256:e23e31ff52700d0cec33e2da028af2e656d552b02e4ee3a51172ef7c2050ad7f
+
+ ======= Docker image with ImageId: c5bc58a4f434 Delted Successfully =======
+beebb65f504d
+
+ ========[Dead|Exited] Docker container with ContainerID: beebb65f504d Deleted Successfully ======= 
+Untagged: minaprotocol/mina-daemon:1.3.0-9b0369c-bullseye-mainnet
+Untagged: minaprotocol/mina-daemon@sha256:70e8165d0b92e9330d8f8d04befcb384f253cf28da94772e3d2992a340a1a528
+Deleted: sha256:a6200a0f7bab27e4a2f4ca7898f70a935ee6acedef524ee41bbb6aaa3fa0c154
+Deleted: sha256:2a6c05e2f748f137a9ba99ea80cdc742c75875de600296f529a6b502fd52138e
+Deleted: sha256:0d00a97145ef2ef1663c08c2d60c3edba7415d73175dac67fd975a199abc3b9e
+Deleted: sha256:94bbec41448b512eed9a504a2da5425f320af97fa0e11fd94edd5445d934fdba
+Deleted: sha256:11fd8b3cf247812330bb496c3210fb4c7941af2a9e3666c7cce5293b5eaed6fc
+Deleted: sha256:5f72dbde53c01299ee0559c1bdfd9df7baa6ea6dedeec6208c5cdd948aa91c14
+Deleted: sha256:b741948f03795846dece8c7eaa712c8a12d76931ee6c9f66ddec9912d2a830f4
+Deleted: sha256:f187b563792f8518400a6f2cd74228ab310eaa4b724fa70c805ff8a9a6d921be
+Deleted: sha256:6c770da28111388e2ecddc859730630fe54f21d9ec5fd650b2c0b6a7f1799ba1
+Deleted: sha256:5fc389f37ca66fe20c40aa521472542eeabf3120585373a44324a85ea4885aeb
+Deleted: sha256:c78f3545ef0165f6fff3a124b035838b555cc9636b43a50c6fab2a3714c75514
+Deleted: sha256:1401df2b50d5de5a743b7bac3238ef3b7ce905ae39f54707b0ebb8eda3ab10bc
+
+ ======= Docker image with ImageId: a6200a0f7bab Delted Successfully =======
+Untagged: minaprotocol/mina-generate-keypair:1.2.0-fe51f1e
+Untagged: minaprotocol/mina-generate-keypair@sha256:7b61ac2646784a413e41d968280e83c716231cc2c0056935e07fd572272d9a07
+Deleted: sha256:c5bc58a4f434cc5d468b5ce2d8e038f70cd0c6c3d7a4ceb08761cf89158553d2
+Deleted: sha256:47ec8517d03e65853b4fac6f737eb493ec4177c520cdbfc22d0d7206c4c65710
+Deleted: sha256:465aae503af70a64c771f60d2f8b68778dd62f872743e6cb4b38b25b898ac2dc
+Deleted: sha256:5b5d52e9be4d7b963874b7cb1beeb70a5c846c56e22b7e1f3b668753adba8b8f
+Deleted: sha256:e23e31ff52700d0cec33e2da028af2e656d552b02e4ee3a51172ef7c2050ad7f
+
+ ======= Docker image with ImageId: c5bc58a4f434 Delted Successfully =======
+-e 
+ ======= There no Docker containers with status as 'Exited' ====== 
+
+Untagged: minaprotocol/mina-generate-keypair:1.2.0-fe51f1e
+Untagged: minaprotocol/mina-generate-keypair@sha256:7b61ac2646784a413e41d968280e83c716231cc2c0056935e07fd572272d9a07
+Deleted: sha256:c5bc58a4f434cc5d468b5ce2d8e038f70cd0c6c3d7a4ceb08761cf89158553d2
+Deleted: sha256:47ec8517d03e65853b4fac6f737eb493ec4177c520cdbfc22d0d7206c4c65710
+Deleted: sha256:465aae503af70a64c771f60d2f8b68778dd62f872743e6cb4b38b25b898ac2dc
+Deleted: sha256:5b5d52e9be4d7b963874b7cb1beeb70a5c846c56e22b7e1f3b668753adba8b8f
+Deleted: sha256:e23e31ff52700d0cec33e2da028af2e656d552b02e4ee3a51172ef7c2050ad7f
+
+ ======= Docker image with ImageId: c5bc58a4f434 Delted Successfully =======
+ec6278ac7e2e
+
+ ========[Dead|Exited] Docker container with ContainerID: ec6278ac7e2e Deleted Successfully ======= 
+Untagged: minaprotocol/mina-daemon:1.3.0-9b0369c-bullseye-mainnet
+Untagged: minaprotocol/mina-daemon@sha256:70e8165d0b92e9330d8f8d04befcb384f253cf28da94772e3d2992a340a1a528
+Deleted: sha256:a6200a0f7bab27e4a2f4ca7898f70a935ee6acedef524ee41bbb6aaa3fa0c154
+Deleted: sha256:2a6c05e2f748f137a9ba99ea80cdc742c75875de600296f529a6b502fd52138e
+Deleted: sha256:0d00a97145ef2ef1663c08c2d60c3edba7415d73175dac67fd975a199abc3b9e
+Deleted: sha256:94bbec41448b512eed9a504a2da5425f320af97fa0e11fd94edd5445d934fdba
+Deleted: sha256:11fd8b3cf247812330bb496c3210fb4c7941af2a9e3666c7cce5293b5eaed6fc
+Deleted: sha256:5f72dbde53c01299ee0559c1bdfd9df7baa6ea6dedeec6208c5cdd948aa91c14
+Deleted: sha256:b741948f03795846dece8c7eaa712c8a12d76931ee6c9f66ddec9912d2a830f4
+Deleted: sha256:f187b563792f8518400a6f2cd74228ab310eaa4b724fa70c805ff8a9a6d921be
+Deleted: sha256:6c770da28111388e2ecddc859730630fe54f21d9ec5fd650b2c0b6a7f1799ba1
+Deleted: sha256:5fc389f37ca66fe20c40aa521472542eeabf3120585373a44324a85ea4885aeb
+Deleted: sha256:c78f3545ef0165f6fff3a124b035838b555cc9636b43a50c6fab2a3714c75514
+Deleted: sha256:1401df2b50d5de5a743b7bac3238ef3b7ce905ae39f54707b0ebb8eda3ab10bc
+
+ ======= Docker image with ImageId: a6200a0f7bab Delted Successfully =======
+Untagged: minaprotocol/mina-generate-keypair:1.2.0-fe51f1e
+Untagged: minaprotocol/mina-generate-keypair@sha256:7b61ac2646784a413e41d968280e83c716231cc2c0056935e07fd572272d9a07
+Deleted: sha256:c5bc58a4f434cc5d468b5ce2d8e038f70cd0c6c3d7a4ceb08761cf89158553d2
+Deleted: sha256:47ec8517d03e65853b4fac6f737eb493ec4177c520cdbfc22d0d7206c4c65710
+Deleted: sha256:465aae503af70a64c771f60d2f8b68778dd62f872743e6cb4b38b25b898ac2dc
+Deleted: sha256:5b5d52e9be4d7b963874b7cb1beeb70a5c846c56e22b7e1f3b668753adba8b8f
+Deleted: sha256:e23e31ff52700d0cec33e2da028af2e656d552b02e4ee3a51172ef7c2050ad7f
+
+ ======= Docker image with ImageId: c5bc58a4f434 Delted Successfully =======
+3e4779289560
+
+ ========[Dead|Exited] Docker container with ContainerID: 3e4779289560 Deleted Successfully ======= 
+Untagged: minaprotocol/mina-daemon:1.3.0-9b0369c-bullseye-mainnet
+Untagged: minaprotocol/mina-daemon@sha256:70e8165d0b92e9330d8f8d04befcb384f253cf28da94772e3d2992a340a1a528
+Deleted: sha256:a6200a0f7bab27e4a2f4ca7898f70a935ee6acedef524ee41bbb6aaa3fa0c154
+Deleted: sha256:2a6c05e2f748f137a9ba99ea80cdc742c75875de600296f529a6b502fd52138e
+Deleted: sha256:0d00a97145ef2ef1663c08c2d60c3edba7415d73175dac67fd975a199abc3b9e
+Deleted: sha256:94bbec41448b512eed9a504a2da5425f320af97fa0e11fd94edd5445d934fdba
+Deleted: sha256:11fd8b3cf247812330bb496c3210fb4c7941af2a9e3666c7cce5293b5eaed6fc
+Deleted: sha256:5f72dbde53c01299ee0559c1bdfd9df7baa6ea6dedeec6208c5cdd948aa91c14
+Deleted: sha256:b741948f03795846dece8c7eaa712c8a12d76931ee6c9f66ddec9912d2a830f4
+Deleted: sha256:f187b563792f8518400a6f2cd74228ab310eaa4b724fa70c805ff8a9a6d921be
+Deleted: sha256:6c770da28111388e2ecddc859730630fe54f21d9ec5fd650b2c0b6a7f1799ba1
+Deleted: sha256:5fc389f37ca66fe20c40aa521472542eeabf3120585373a44324a85ea4885aeb
+Deleted: sha256:c78f3545ef0165f6fff3a124b035838b555cc9636b43a50c6fab2a3714c75514
+Deleted: sha256:1401df2b50d5de5a743b7bac3238ef3b7ce905ae39f54707b0ebb8eda3ab10bc
+
+ ======= Docker image with ImageId: a6200a0f7bab Delted Successfully =======
+Untagged: minaprotocol/mina-generate-keypair:1.2.0-fe51f1e
+Untagged: minaprotocol/mina-generate-keypair@sha256:7b61ac2646784a413e41d968280e83c716231cc2c0056935e07fd572272d9a07
+Deleted: sha256:c5bc58a4f434cc5d468b5ce2d8e038f70cd0c6c3d7a4ceb08761cf89158553d2
+Deleted: sha256:47ec8517d03e65853b4fac6f737eb493ec4177c520cdbfc22d0d7206c4c65710
+Deleted: sha256:465aae503af70a64c771f60d2f8b68778dd62f872743e6cb4b38b25b898ac2dc
+Deleted: sha256:5b5d52e9be4d7b963874b7cb1beeb70a5c846c56e22b7e1f3b668753adba8b8f
+Deleted: sha256:e23e31ff52700d0cec33e2da028af2e656d552b02e4ee3a51172ef7c2050ad7f
+
+ ======= Docker image with ImageId: c5bc58a4f434 Delted Successfully =======
+-e 
+ ======= There no Docker containers with status as 'Exited' ====== 
+
+9736223fc528
+
+ ========[Dead|Exited] Docker container with ContainerID: 9736223fc528 Deleted Successfully ======= 
+Untagged: minaprotocol/mina-daemon:1.3.0-9b0369c-bullseye-mainnet
+Untagged: minaprotocol/mina-daemon@sha256:70e8165d0b92e9330d8f8d04befcb384f253cf28da94772e3d2992a340a1a528
+Deleted: sha256:a6200a0f7bab27e4a2f4ca7898f70a935ee6acedef524ee41bbb6aaa3fa0c154
+Deleted: sha256:2a6c05e2f748f137a9ba99ea80cdc742c75875de600296f529a6b502fd52138e
+Deleted: sha256:0d00a97145ef2ef1663c08c2d60c3edba7415d73175dac67fd975a199abc3b9e
+Deleted: sha256:94bbec41448b512eed9a504a2da5425f320af97fa0e11fd94edd5445d934fdba
+Deleted: sha256:11fd8b3cf247812330bb496c3210fb4c7941af2a9e3666c7cce5293b5eaed6fc
+Deleted: sha256:5f72dbde53c01299ee0559c1bdfd9df7baa6ea6dedeec6208c5cdd948aa91c14
+Deleted: sha256:b741948f03795846dece8c7eaa712c8a12d76931ee6c9f66ddec9912d2a830f4
+Deleted: sha256:f187b563792f8518400a6f2cd74228ab310eaa4b724fa70c805ff8a9a6d921be
+Deleted: sha256:6c770da28111388e2ecddc859730630fe54f21d9ec5fd650b2c0b6a7f1799ba1
+Deleted: sha256:5fc389f37ca66fe20c40aa521472542eeabf3120585373a44324a85ea4885aeb
+Deleted: sha256:c78f3545ef0165f6fff3a124b035838b555cc9636b43a50c6fab2a3714c75514
+Deleted: sha256:1401df2b50d5de5a743b7bac3238ef3b7ce905ae39f54707b0ebb8eda3ab10bc
+
+ ======= Docker image with ImageId: a6200a0f7bab Delted Successfully =======
+Untagged: minaprotocol/mina-generate-keypair:1.2.0-fe51f1e
+Untagged: minaprotocol/mina-generate-keypair@sha256:7b61ac2646784a413e41d968280e83c716231cc2c0056935e07fd572272d9a07
+Deleted: sha256:c5bc58a4f434cc5d468b5ce2d8e038f70cd0c6c3d7a4ceb08761cf89158553d2
+Deleted: sha256:47ec8517d03e65853b4fac6f737eb493ec4177c520cdbfc22d0d7206c4c65710
+Deleted: sha256:465aae503af70a64c771f60d2f8b68778dd62f872743e6cb4b38b25b898ac2dc
+Deleted: sha256:5b5d52e9be4d7b963874b7cb1beeb70a5c846c56e22b7e1f3b668753adba8b8f
+Deleted: sha256:e23e31ff52700d0cec33e2da028af2e656d552b02e4ee3a51172ef7c2050ad7f
+
+ ======= Docker image with ImageId: c5bc58a4f434 Delted Successfully =======
